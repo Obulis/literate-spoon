@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <manifest versionCode="1" versionName="1.0" compileSdkVersion="30" compileSdkVersionCodename="11" coreApp="true" package="com.samsung.advp.imssettings" platformBuildVersionCode="30" platformBuildVersionName="11">
 <uses-sdk minSdkVersion="30" targetSdkVersion="30"/>
 <permission name="com.sec.android.voltesettings.permission.KEYSTRING" protectionLevel="0x3"/>
